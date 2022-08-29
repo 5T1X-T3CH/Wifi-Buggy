@@ -18,7 +18,7 @@ WiFiServer server(80);  //Service Port for http
 
 void setup() {
 
-  // Set all the motor control pins to outputs
+  // Set all the motor control pins to outputsi
 	pinMode(enA, OUTPUT);
 	pinMode(enB, OUTPUT);
 	pinMode(in1, OUTPUT);
